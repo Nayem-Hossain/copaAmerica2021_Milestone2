@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+header {
+  background-color: #2d25a0;
+}
+h1 {
+}
+.heading-section {
+}
+#arrow-button {
+  display: block;
+  text-decoration: none;
+  color: white;
+  background-color: #e02c6d;
+  border: none;
+  width: 168px;
+  height: 44px;
+}
