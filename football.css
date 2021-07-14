@@ -22,7 +22,7 @@ body {
   padding-top: 42px;
   padding-bottom: 86px;
 }
-.heading-flexible{
+.heading-flexible {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -193,7 +193,3 @@ nav > div > a {
   color: #969bab;
   margin-right: 14px;
 }
-
-/*--------------------------------------------------
-    MediaQuery stylesheet for mobile devices
---------------------------------------------------*/
