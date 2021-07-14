@@ -169,6 +169,25 @@ nav > div > a {
 }
 
 /*--------------------------------------------------
+           video watching section styles 
+--------------------------------------------------*/
+
+.todays-highlight{
+  display: flex;
+  justify-content: center;
+}
+
+.match-title{
+  font-style: normal;
+  font-size: 48px;
+  font-weight: 700;
+  padding: 20px 0;
+  margin: 0;
+  color: #0a0826;
+
+}
+
+/*--------------------------------------------------
            footer section styles 
 --------------------------------------------------*/
 #contact-info {
